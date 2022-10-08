@@ -1,0 +1,64 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+.custom-shape-divider-top-1664663688 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1664663688 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 232px;
+}
+
+.custom-shape-divider-top-1664663688 .shape-fill {
+    fill: #63C9F6;
+}
+
+body {
+    background-image:url(wallpaper_azul.jpg);
+}
+
+.custom-shape-divider-bottom-1665243152 {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1665243152 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 160px;
+}
+
+.custom-shape-divider-bottom-1665243152 .shape-fill {
+    fill: #63C9F6;
+}
